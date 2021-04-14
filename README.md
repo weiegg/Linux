@@ -9,3 +9,7 @@
     + yum install ibans-table-chinese-cangjie
   + 登出後重新登入
   
+### 設定網路
+  + 概覽->設定值->網路
+                 +勾選自動連線
+                 
