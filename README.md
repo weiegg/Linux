@@ -6,4 +6,6 @@
   + 概覽->設定值->地區語言->輸入來源+選擇想要的輸入法
   + 終端機
     + yum search cangjie
+    + yum install ibans-table-chinese-cangjie
+  + 登出後重新登入
   
